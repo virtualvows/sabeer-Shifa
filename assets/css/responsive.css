@@ -1,21 +1,4 @@
-/*
-=> 1.global paddin  and margin
-=> 2.header css
-=> 3.banner css
-=> 4.banner bottom css
-=> 5.clocktime css
-=> 6.timeline section
-=> 7.contact
-=> 8.testimonial-slider
-=> 9.newsletter
-=> 10.service page
-=> 11.contact page
-=> 12.blog page
-=> 13.404 page
-=> 14.footer
-*/
 
-/* 1.global paddin  and margin */
 @media screen and (max-width: 991px) {
   html {
     font-size: 52.5%;
