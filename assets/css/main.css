@@ -1558,16 +1558,16 @@ input[type='file']:focus { outline: none; box-shadow: none; }
 	font-weight: 700;
 }
 .footer-logo {
-	background: url(../images/footer-flower.png) no-repeat center 0 / cover;
+	background: url(../images/footer-flower-2.png) no-repeat center 0 / cover;
 	width: 39.6rem;
 	height: 35.8rem;
 	margin: 0 auto;
 }
 .footer-logo h2 {
 	color: #454c56;
-	font-size: 4.2rem;
+	font-size: 3.2rem;
 	line-height: 4.7rem;
-	padding: 2rem 0 0 7rem;
+	padding: rem 0 0 7rem;
 }
 .footer-socials li { margin: 6px 3px 0 3px; }
 .footer-socials li a {
